@@ -1,2 +1,5 @@
-# instrukcii
-instrukcii dla magazina
+# Добавление задачи 
+
+
+-1. Добавляем карточку в разделе ***Задачи на неделю*** 
+[!i](https://i.imgur.com/0I5iKBG.png)
